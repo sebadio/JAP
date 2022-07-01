@@ -1,3 +1,3 @@
 # Jovenes a Programar repository
 
-All of my assignments in GitHub
+All my "Jovenes a Programar" tasks and tests are stored in this GitHub repository
