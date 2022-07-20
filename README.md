@@ -1,3 +1,3 @@
 # Jovenes a Programar repository
 
-All my "Jovenes a Programar" tasks and tests are stored in this GitHub repository
+Todas mis tareas y ejercicios del programa "Jovenes a Programar" estan guardadas aqui.
